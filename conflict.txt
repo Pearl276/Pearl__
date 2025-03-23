@@ -1,4 +1,1 @@
-This is a new file
-Hi, this is feature1 branch
-hello, this is feature1 branch
- hello, this is feature2 branch
+this is a new file
