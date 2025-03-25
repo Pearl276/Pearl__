@@ -30,7 +30,7 @@ untracked files effectively.
 
 ## Usage :
 
-This purpose of this repository is to practice following commands:
+The purpose of this repository is to practice following commands:
   -Forking a repository.
   - cloning a repository.
   - creating .gitignore file to manage untracked files.   
